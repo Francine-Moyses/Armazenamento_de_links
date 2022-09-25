@@ -2,8 +2,8 @@
 **Tema:** Site para gerenciamento e armazenamento de links
 
 **Descrição das Pastas:**
-* src: Pasta com imagens
-* doc: Pasta com Documentação relacionada ao Projeto
+* templates: Pasta com códigos html
+* img: Pasta com imagens
 
 **Link de Hospedagem Heroku:** https://sitemeuslinks.herokuapp.com/
 
