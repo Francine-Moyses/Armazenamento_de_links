@@ -58,7 +58,7 @@ def get_links():
     return {"lista": employers_dict}
 
 @app.route("/meuslinks")
-def nova():
+def meuslinks():
     return render_template("meuslinks.html")
 
 #----colocar o site no ar
