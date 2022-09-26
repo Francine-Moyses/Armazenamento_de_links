@@ -39,6 +39,7 @@ R 04 |Hospede sua aplicação em algum servidor. |
 <div align="left">
   
       pip install flask
+      pip install pysqlite3
 
 </div>
 
