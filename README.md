@@ -17,8 +17,8 @@
    <img align="center" alt="Rafa-Js" height="90" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Fran-Python" height="90" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Fran-Python" height="90" width="100" src="https://user-images.githubusercontent.com/79495727/160216737-0dd4e3f6-3aff-4571-b5ec-b288c5eae0c9.png">
-      <img align="center" alt="Fran-Python" height="80" width="90" src="https://raw.githubusercontent.com/themedotid/bootstrap-icon/HEAD/docs/bootstrap-icon-css.png">
-
+      <img align="center" alt="Fran-Python" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
+          
 </div>
 
 ## Requisitos
