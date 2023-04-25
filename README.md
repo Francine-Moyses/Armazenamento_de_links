@@ -5,7 +5,7 @@
 * templates: Interface gráfica
 * img: Pasta com imagens
 
-**Link de Hospedagem Heroku:** https://sitemeuslinks.herokuapp.com/
+**Link de Hospedagem Heroku:** 
 
 
 ## Tecnologias Utilizadas
