@@ -29,7 +29,7 @@ COD | DESCRIÇÃO |
 :--:|:---------:|
 R 01 |Desenvolva uma API gerenciar links, com a URL e um título/label. Os links também podem ser editados e excluídos. |
 R 02 |Construa uma interface, como quiser, para que um usuário possa ver e gerenciar os links manualmente. |
-R 03 |Automatize este processo de salvar links com um web crawler que importe artigos de seus blogs favoritos, como a [devGo](https://devgo.com.br/). |
+R 03 |Automatize este processo de salvar links com um web crawler que importe artigos de seus blogs favoritos. |
 R 04 |Hospede sua aplicação em algum servidor. |
 
 </div>
